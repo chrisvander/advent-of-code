@@ -1,15 +1,12 @@
-{
-  "version": "2.0.0",
-  "tasks": [
-    {
-      "label": "Problem 1",
-      "type": "shell",
-      "command": "python prob1.py"
-    },
-    {
-      "label": "Problem 2",
-      "type": "shell",
-      "command": "python prob2.py"
-    }
-  ]
-}
+[
+	{
+		"label": "Problem 1",
+		"type": "shell",
+		"command": "python prob1.py"
+	},
+	{
+		"label": "Problem 2",
+		"type": "shell",
+		"command": "python prob2.py"
+	}
+]
